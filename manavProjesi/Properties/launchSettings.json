@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "manavProjesi": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
